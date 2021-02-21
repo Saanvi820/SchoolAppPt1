@@ -1,0 +1,22 @@
+body
+{
+    text-align: center;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h5
+{
+    display: inline;
+    color: cadetblue
+    
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+#videos iframe
+{
+    width: 80%;
+}
